@@ -1,0 +1,12 @@
+#learn {
+    background-color: #e52f3c;
+}
+
+#learn:hover {
+    background-color: #1f386e;
+}
+
+li,
+a:hover {
+    cursor: pointer;
+}
