@@ -17,11 +17,10 @@ const Testimonials = () => {
                 </div>
                 <div className='testimonial-content'>
                   <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis sed dapibus leo nec ornare diam sedasd commodo nibh
-                    ante facilisis bibendum dolor feugiat at."
+                    "Mark  and MOD Realty did a fantastic job, it was quick, efficient and very professional. They went above and beyond in what is required to make me happy and we are grateful to have chosen them to build our home.
+."
                   </p>
-                  <div className='testimonial-meta'> - John Doe </div>
+                  <div className='testimonial-meta'> - Haylee Baybeer </div>
                 </div>
               </div>
             </div>
@@ -33,11 +32,10 @@ const Testimonials = () => {
                 </div>
                 <div className='testimonial-content'>
                   <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis sed dapibus leo nec ornare diam sedasd commodo nibh
-                    ante facilisis."
+                    "We absolutely loved working with MOD Realty! They built our home very quickly with the highest of quality and care. I would hands down refer them to anyone and everyone. 
+."
                   </p>
-                  <div className='testimonial-meta'> - Johnathan Doe </div>
+                  <div className='testimonial-meta'> - Bruce Wayne </div>
                 </div>
               </div>
             </div>
@@ -49,11 +47,9 @@ const Testimonials = () => {
                 </div>
                 <div className='testimonial-content'>
                   <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis sed dapibus leo nec ornare diam sedasd commodo nibh
-                    ante facilisis bibendum dolor feugiat at."
+                    "We are so grateful to you for your conscientious craftmanship and it was a pleasure working with you. We could not have asked for a better experience and we are completely delighted with the finished product. You are part of transforming our family's  lives here and now. Thank you so much!"
                   </p>
-                  <div className='testimonial-meta'> - John Doe </div>
+                  <div className='testimonial-meta'> - Addams Family </div>
                 </div>
               </div>
             </div>
